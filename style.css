@@ -1,0 +1,30 @@
+/* default setting */
+*{
+    margin:0%;
+    padding:0%;
+}
+
+body{
+    box-sizing: border-box;
+    margin:0%;
+    height: 100vh;
+}
+
+/* end of default setting */
+.nav-bar{
+    display:flex;
+    justify-content: space-between;
+    height: 9hv;
+    align-items: center;
+    padding-inline: 1rem;
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+.logo{
+    width: 10vh;
+}
+.hero2 h1 h2{
+    margin: 100px;
+    padding: 0%;
+
+}
