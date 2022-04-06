@@ -1,4 +1,4 @@
-/* default setting */
+
 *{
     margin:0%;
     padding:0%;
@@ -9,7 +9,7 @@ body{
     margin:0%;
     height: 100vh;
 }
-/* end of default setting */
+
 .nav-bar{
     display:flex;
     justify-content: space-between;
